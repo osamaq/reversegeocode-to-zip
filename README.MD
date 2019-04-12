@@ -8,6 +8,10 @@ Re-wrote from [latlng-to-zip](https://www.npmjs.com/package/latlng-to-zip) becau
 
 `npm install reversegeocode-to-zip`
 
+or
+
+`yarn add reversegeocode-to-zip`
+
 ## Example
 
 ```
