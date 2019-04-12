@@ -33,13 +33,17 @@ reverseGeocode(region, GOOGLE_API_KEY)
 
 ## Testing
 
-Install dev dependency jest:
+Clone repo:
+
+`git clone https://github.com/osamaq/reversegeocode-to-zip.git && cd reversegeocode-to-zip`
+
+Install dependencies (jest):
 
 `yarn`
 
 or
 
-`npm install`
+`npm i`
 
 Run tests:
 
