@@ -2,7 +2,7 @@
   "name": "reversegeocode-to-zip",
   "version": "1.0.0",
   "description": "Uses Google's geocoding API to convert longitude and latitude to a zipcode.",
-  "main": "reverseGeocode.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
