@@ -6,11 +6,11 @@ Re-wrote from [latlng-to-zip](https://www.npmjs.com/package/latlng-to-zip) becau
 
 ## Installation
 
-`npm i reversegeocode-to-zip`
+`yarn add reversegeocode-to-zip`
 
 or
 
-`yarn add reversegeocode-to-zip`
+`npm i reversegeocode-to-zip`
 
 ## Example
 
