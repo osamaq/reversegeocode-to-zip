@@ -6,7 +6,7 @@ Re-wrote from [latlng-to-zip](https://www.npmjs.com/package/latlng-to-zip) becau
 
 ## Installation
 
-`npm install reversegeocode-to-zip`
+`npm i reversegeocode-to-zip`
 
 or
 
@@ -28,6 +28,8 @@ reverseGeocode(region, GOOGLE_API_KEY)
   .then(zipcode => console.log(zipcode))
   .catch(err => console.log(err));
 ```
+
+**Note:** don't actually put your API key in your code. Import it as an environment variable.
 
 ## Testing
 
