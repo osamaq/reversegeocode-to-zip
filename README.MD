@@ -15,7 +15,7 @@ or
 ## Example
 
 ```
-import reverseGeocode form "reversegeocode-to-zip"
+import reverseGeocode from "reversegeocode-to-zip"
 
 const region = {
       latitude: 36.98823868538418,
