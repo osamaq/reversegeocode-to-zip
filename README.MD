@@ -1,6 +1,6 @@
 # reversegeocode-to-zip 
 
-[![npm version](https://badge.fury.io/js/reversegeocode-to-zip.svg)](https://badge.fury.io/js/reversegeocode-to-zip)
+[![npm version](https://badge.fury.io/js/reversegeocode-to-zip.svg)](https://www.npmjs.com/package/reversegeocode-to-zip)
 
 Uses [Google's geocoding API](https://developers.google.com/maps/documentation/geocoding/start) to convert longitude and latitude to a zipcode. Requires supplying a google maps [API key](https://cloud.google.com/maps-platform/).
 
