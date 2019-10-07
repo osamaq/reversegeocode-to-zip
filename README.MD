@@ -4,7 +4,6 @@
 
 Uses [Google's geocoding API](https://developers.google.com/maps/documentation/geocoding/start) to convert longitude and latitude to a zipcode. Requires supplying a google maps [API key](https://cloud.google.com/maps-platform/).
 
-Re-wrote from [latlng-to-zip](https://www.npmjs.com/package/latlng-to-zip) because its out of date and the author is not merging pulls.
 
 ## Installation
 
